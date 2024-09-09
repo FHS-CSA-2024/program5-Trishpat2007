@@ -8,6 +8,9 @@ class Program5{
         int koopaMiles= 412;
         int pipeMiles= 361;
         int bandwagonMiles= 161;
+
+        //I would prefer using variables for the gallon for each car, but this is fine for this program.
+        
         
         double royaleAvrg= (royaleMiles/9.0)*100;
         royaleAvrg=(int)(royaleAvrg+5)/10;
